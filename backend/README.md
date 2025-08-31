@@ -1,1 +1,2 @@
-npm install express mongoose jsonwebtoken bcrypt cors dotenv body-parser multer stripe validator nodemon
+- npm install express mongoose jsonwebtoken bcrypt cors dotenv body-parser multer stripe validator nodemon
+- create Express in server.js -> create Database from official Site Mongo Atls -> connect in db.js file and export that -> import in server.js file as connectDB() -> (if Database is connected then) create the Model in (Models Directory) -> create the controllers -> create the routes (Routes Directory)
